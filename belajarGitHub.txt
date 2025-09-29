@@ -1,3 +1,5 @@
 Tahapan Belajar Git Hub
 Belajar Repo
 Belajar Commited
+Belajar Pull
+Belajar Clone
